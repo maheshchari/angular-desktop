@@ -27,9 +27,9 @@ function createWindow(): BrowserWindow {
     require('electron-reload')(__dirname, {
       electron: require(`${__dirname}/node_modules/electron`)
     });
-    win.loadURL('https://atlantis-dev4-dashboard.quantela.com/#/login?client=prague-city.com');
+    win.loadURL('https://atlantis-dev4-dashboard.quantela.com/#/login');
   } else {
-    win.loadURL('https://atlantis-dev4-dashboard.quantela.com/#/login?client=prague-city.com');
+    win.loadURL('https://atlantis-dev4-dashboard.quantela.com/#/login');
   }
 
   if (serve) {
