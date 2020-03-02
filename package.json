@@ -1,14 +1,14 @@
 {
-  "name": "angular-electron",
-  "version": "7.0.1",
-  "description": "Angular 9 with Electron (Typescript + SASS + Hot Reload)",
-  "homepage": "https://github.com/maximegris/angular-electron",
+  "name": "quanteladashboards",
+  "version": "2.0.7",
+  "description": "Atlantis platform UI framework to build different dashboard products with dynamic widgets.",
+  "homepage": "https://quantela.com",
   "author": {
-    "name": "Maxime GRIS",
-    "email": "maxime.gris@gmail.com"
+    "name": "Mahesh Guggilla",
+    "email": "mahesh.g@quantela.com"
   },
   "keywords": [
-    "angular",
+    "dashboards",
     "angular 9",
     "electron",
     "typescript",
